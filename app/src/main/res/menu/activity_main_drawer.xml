@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_emps_list"
+            android:icon="@android:drawable/sym_contact_card"
+            android:title="Employees List" />
+        <item
+            android:id="@+id/nav_emp_info"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Edit employee info" />
+        <item
+            android:id="@+id/nav_depts"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Departments" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_app_info"
+                android:icon="@android:drawable/ic_dialog_info"
+                android:title="Info Activity" />
+        </menu>
+    </item>
+
+</menu>

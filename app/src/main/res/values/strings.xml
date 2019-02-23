@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Employee Project</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Company Name ....</string>
+    <string name="nav_header_subtitle">Slogan or subtitle</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="hiring_date">Hiring Date</string>
+    <string name="emp_id">Emp ID</string>
+    <string name="title_employee_list">Employees</string>
+    <string name="title_employee_detail">Employee Detail</string>
+</resources>
